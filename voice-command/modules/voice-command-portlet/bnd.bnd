@@ -1,0 +1,4 @@
+Bundle-Name: voice-command-portlet
+Bundle-SymbolicName: voice.command.portlet
+Bundle-Version: 1.0.0
+Export-Package: voice.command.portlet.constants

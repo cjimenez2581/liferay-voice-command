@@ -1,0 +1,3 @@
+Bundle-Name: voice-command-jsp-override
+Bundle-SymbolicName: voice.command.jsp.override
+Bundle-Version: 1.0.0
